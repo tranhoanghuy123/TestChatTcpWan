@@ -1,0 +1,13 @@
+E:\Network_Programming\Source\TCPChat\TCPChatClient\bin\Debug\TCPChatClient.exe.config
+E:\Network_Programming\Source\TCPChat\TCPChatClient\bin\Debug\TCPChatClient.exe
+E:\Network_Programming\Source\TCPChat\TCPChatClient\bin\Debug\TCPChatClient.pdb
+E:\Network_Programming\Source\TCPChat\TCPChatClient\bin\Debug\SuperSimpleTcp.dll
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.csproj.AssemblyReference.cache
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.csproj.SuggestedBindingRedirects.cache
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.Properties.Resources.resources
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.csproj.GenerateResource.cache
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.csproj.CoreCompileInputs.cache
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.csproj.CopyComplete
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.exe
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.pdb
+E:\Network_Programming\Source\TCPChat\TCPChatClient\obj\Debug\TCPChatClient.Client.resources
